@@ -6,7 +6,7 @@
 
 # Nome do Projeto
 
-## Inteligads
+## InteligadOs
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/victorbarq/">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/victorbarq/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
 
