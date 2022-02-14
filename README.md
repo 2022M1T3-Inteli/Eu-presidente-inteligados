@@ -6,9 +6,11 @@
 
 # Nome do Projeto
 
-## Nome do Grupo
+## Inteligados
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Caio Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro de Oliveira</a>
+
+
 
 ## Descrição
 
