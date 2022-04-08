@@ -1,0 +1,6 @@
+Godot Engine v3.4.2.stable.official.45eaa2daf - https://godotengine.org
+OpenGL ES 3.0 Renderer: GeForce MX110/PCIe/SSE2
+OpenGL ES Batching: ON
+ 
+WARNING: Case mismatch opening requested file 'interface_Menu.tscn', stored as 'Interface_Menu.tscn' in the filesystem. This file will not open when exported to other case-sensitive platforms.
+   at: _open (drivers/windows/file_access_windows.cpp:102) - Case mismatch opening requested file 'interface_Menu.tscn', stored as 'Interface_Menu.tscn' in the filesystem. This file will not open when exported to other case-sensitive platforms.

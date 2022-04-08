@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://scripts/resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "Uma empresa quer monopolizar as linhas de transporte de um estado, como o governador é seu amigo e a empresa tem contato direto com você, ela te oferece verba para o financiamento da próxima campanha em troca de ser indicada para o contrato PPP. O que você fará? "
+type = 0
+opcoes = [ "Conversar com o governador, seu amigo, para facilitar a contratação", "Denunciar a empresa para o MP " ]
+correct = "Denunciar a empresa para o MP "

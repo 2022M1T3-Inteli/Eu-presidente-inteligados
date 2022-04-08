@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/funk.mp3-2f2d62097b3e0b9f93de173d81bb09d9.mp3str"
+
+[deps]
+
+source_file="res://cena_Menu/Cena Principal/áudio/funk.mp3"
+dest_files=[ "res://.import/funk.mp3-2f2d62097b3e0b9f93de173d81bb09d9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

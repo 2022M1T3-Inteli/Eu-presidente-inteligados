@@ -1,0 +1,185 @@
+[gd_scene load_steps=14 format=2]
+
+[ext_resource path="res://scripts/nivel/nivel_jogo.gd" type="Script" id=1]
+[ext_resource path="res://resource/db/db_jogo_perguntas.tres" type="Resource" id=2]
+[ext_resource path="res://cena_Menu/Cena Principal/Font/Montserrat-ExtraBold.ttf" type="DynamicFontData" id=3]
+[ext_resource path="res://cenas/decisao.png" type="Texture" id=4]
+[ext_resource path="res://interface/HUD.tscn" type="PackedScene" id=5]
+[ext_resource path="res://cenas/vazio.png" type="Texture" id=6]
+[ext_resource path="res://cenas/jornalOplano.png" type="Texture" id=7]
+[ext_resource path="res://cenas/Sprite.gd" type="Script" id=8]
+[ext_resource path="res://cenas/flecha.png" type="Texture" id=9]
+[ext_resource path="res://mouse/Mouse_cursor.tscn" type="PackedScene" id=10]
+
+[sub_resource type="DynamicFont" id=1]
+size = 20
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=2]
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=3]
+font_data = ExtResource( 3 )
+
+[node name="nivel_jogo" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -3.0
+margin_right = -1024.0
+margin_bottom = -603.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+db_perguntas = ExtResource( 2 )
+color_right = Color( 0.129412, 0.588235, 0.952941, 1 )
+color_wrong = Color( 1, 0, 0, 1 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 1920, 362.5 )
+scale = Vector2( 0.838603, 0.401228 )
+texture = ExtResource( 6 )
+script = ExtResource( 8 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="Camera2D" type="Camera2D" parent="Sprite"]
+position = Vector2( 2.9812, -0.00012207 )
+scale = Vector2( 1.19246, 2.50279 )
+current = true
+
+[node name="CenárioMesaPergunta" type="Sprite" parent="."]
+position = Vector2( 1931, 366 )
+scale = Vector2( 1.85, 1.85 )
+texture = ExtResource( 7 )
+
+[node name="Decisao" type="Sprite" parent="."]
+position = Vector2( 625.25, 366 )
+scale = Vector2( 1.87214, 1.85 )
+texture = ExtResource( 4 )
+
+[node name="informacao_pergunta" type="VBoxContainer" parent="."]
+modulate = Color( 0, 0, 0, 1 )
+margin_left = 1670.0
+margin_top = 173.0
+margin_right = 2135.0
+margin_bottom = 647.0
+size_flags_horizontal = 8
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="texto_pergunta" type="Label" parent="informacao_pergunta"]
+margin_top = 85.0
+margin_right = 465.0
+margin_bottom = 185.0
+rect_min_size = Vector2( 100, 100 )
+size_flags_vertical = 6
+custom_fonts/font = SubResource( 1 )
+align = 1
+autowrap = true
+
+[node name="Panel" type="Panel" parent="informacao_pergunta"]
+modulate = Color( 1, 1, 1, 0 )
+self_modulate = Color( 1, 1, 1, 0 )
+margin_top = 274.0
+margin_right = 465.0
+margin_bottom = 474.0
+rect_min_size = Vector2( 0, 200 )
+
+[node name="imagem_pergunta" type="TextureRect" parent="informacao_pergunta/Panel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -2.0
+expand = true
+stretch_mode = 6
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="video_pergunta" type="VideoPlayer" parent="informacao_pergunta/Panel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 1.0
+margin_top = -1.0
+margin_right = 1.0
+margin_bottom = -1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="audio_pergunta" type="AudioStreamPlayer" parent="informacao_pergunta/Panel"]
+
+[node name="resposta" type="VBoxContainer" parent="."]
+margin_left = 256.0
+margin_top = 90.0
+margin_right = 947.0
+margin_bottom = 707.0
+custom_constants/separation = 20
+alignment = 1
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="opcao1" type="Button" parent="resposta"]
+margin_top = 98.0
+margin_right = 691.0
+margin_bottom = 298.0
+rect_min_size = Vector2( 470, 200 )
+size_flags_horizontal = 3
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 2 )
+flat = true
+
+[node name="opcao2" type="Button" parent="resposta"]
+margin_top = 318.0
+margin_right = 691.0
+margin_bottom = 518.0
+rect_min_size = Vector2( 470, 200 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 3 )
+flat = true
+
+[node name="Node2D" parent="." instance=ExtResource( 5 )]
+
+[node name="AudioStreamPlayer1" type="AudioStreamPlayer" parent="."]
+
+[node name="Flecha" type="Sprite" parent="."]
+position = Vector2( 126, 624 )
+scale = Vector2( 0.5, 0.5 )
+texture = ExtResource( 9 )
+
+[node name="Flecha" type="Sprite" parent="Flecha"]
+position = Vector2( 4620, -4 )
+rotation = 3.14159
+texture = ExtResource( 9 )
+
+[node name="Button" type="Button" parent="."]
+margin_left = 59.0
+margin_top = 559.0
+margin_right = 190.0
+margin_bottom = 687.0
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button2" type="Button" parent="."]
+margin_left = 2372.0
+margin_top = 558.0
+margin_right = 2501.0
+margin_bottom = 687.0
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Mouse_cursor" parent="." instance=ExtResource( 10 )]
+
+[connection signal="pressed" from="resposta/opcao1" to="." method="_on_opcao1_pressed"]
+[connection signal="pressed" from="resposta/opcao2" to="." method="_on_opcao2_pressed"]
+[connection signal="pressed" from="Button" to="Sprite" method="_on_Button_pressed"]
+[connection signal="pressed" from="Button2" to="Sprite" method="_on_Button2_pressed"]

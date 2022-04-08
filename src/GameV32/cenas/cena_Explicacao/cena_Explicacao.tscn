@@ -1,0 +1,56 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://cenas/cena_Explicacao/cena_Explicacao.gd" type="Script" id=1]
+[ext_resource path="res://cena_Menu/Cena Principal/Font/Montserrat-ExtraBold.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://cenas/cena_Explicacao/explica.png" type="Texture" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 57
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 2 )
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+modulate = Color( 0, 0, 0, 1 )
+self_modulate = Color( 0, 0, 0, 1 )
+margin_left = 383.955
+margin_top = 172.07
+margin_right = 2159.95
+margin_bottom = 1972.07
+rect_scale = Vector2( 0.258313, 0.25769 )
+custom_fonts/font = SubResource( 1 )
+align = 1
+valign = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="TextureRect" type="TextureRect" parent="."]
+show_behind_parent = true
+anchor_right = 3.88125
+anchor_bottom = 3.88194
+rect_scale = Vector2( 1.85, 1.85 )
+texture = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="botao_geral" type="Button" parent="."]
+light_mask = 3
+anchor_right = 1.0
+anchor_bottom = 1.0
+rect_pivot_offset = Vector2( 4967.8, 1397.26 )
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="pressed" from="botao_geral" to="." method="_on_botao_geral_pressed"]

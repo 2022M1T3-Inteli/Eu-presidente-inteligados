@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://scripts/resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "Uma construtora, em troca de apoio nas próximas eleições, solicita a você que escolha essa empresa para a construção de diversas obras públicas, mesmo gastando muito mais dinheiro da população. O que você deve fazer:"
+type = 0
+opcoes = [ "Aceita a proposta", "Recusa a proposta e denuncia para o MP" ]
+correct = "Recusa a proposta e denuncia para o MP"

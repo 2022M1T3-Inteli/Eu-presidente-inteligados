@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://scripts/resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "Uma madeireira estrangeira quer explorar uma região de mata preservada. O que você fará?"
+type = 0
+opcoes = [ "Negociar com a empresa para que ela possa explorar a região ", "Não negociar em função da preservação da flora local " ]
+correct = "Não negociar em função da preservação da flora local "

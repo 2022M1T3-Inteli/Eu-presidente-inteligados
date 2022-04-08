@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://scripts/resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "A nossa escola está com diversos problemas estruturais, faltam computadores, cadeiras e até materiais básicos, como giz. A quem podemos recorrer ? "
+type = 0
+opcoes = [ "Presidente", "Prefeito" ]
+correct = "Prefeito"

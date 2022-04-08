@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Continue Theme (Full).ogg-0f30fdf854122dbcd82ba9e2fb8aedd3.oggstr"
+
+[deps]
+
+source_file="res://audio/Continue Theme (Full).ogg"
+dest_files=[ "res://.import/Continue Theme (Full).ogg-0f30fdf854122dbcd82ba9e2fb8aedd3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

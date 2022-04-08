@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://scripts/resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "Se  o consumidor quiser comprar uma vassoura no mercado ele deverá comprar obrigatoriamente o cabo desta. Essa é uma prática válida ? "
+type = 0
+opcoes = [ "Sim, pois o mercado como instituição pode definir suas práticas de venda.", "Não, pois ela fere os direitos do consumidor de alguma forma." ]
+correct = "Não, pois ela fere os direitos do consumidor de alguma forma."

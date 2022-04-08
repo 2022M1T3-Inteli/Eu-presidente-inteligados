@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=11 format=2]
+
+[ext_resource path="res://scripts/resource/db_perguntas.gd" type="Script" id=1]
+[ext_resource path="res://resource/pergunta/cor_cavalo_branco_napoleao.tres" type="Resource" id=2]
+[ext_resource path="res://resource/pergunta/qual_fruta_mais_gostosa.tres" type="Resource" id=3]
+[ext_resource path="res://resource/pergunta/qual_o_melhor_dj_do_brasil.tres" type="Resource" id=4]
+[ext_resource path="res://resource/pergunta/cachorro.tres" type="Resource" id=5]
+[ext_resource path="res://resource/pergunta/ônibus.tres" type="Resource" id=6]
+[ext_resource path="res://resource/pergunta/militares.tres" type="Resource" id=7]
+[ext_resource path="res://resource/pergunta/Prefeitura1.tres" type="Resource" id=9]
+[ext_resource path="res://resource/pergunta/Mercado1.tres" type="Resource" id=14]
+[ext_resource path="res://resource/pergunta/Escola1.tres" type="Resource" id=16]
+
+[resource]
+script = ExtResource( 1 )
+db = [ ExtResource( 3 ), ExtResource( 2 ), ExtResource( 5 ), ExtResource( 4 ), ExtResource( 6 ), ExtResource( 7 ), null, ExtResource( 16 ), null, ExtResource( 9 ), null, ExtResource( 14 ), null ]
