@@ -4,17 +4,15 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Eu, Presidente
 
-## InteligadOs
+## Inteligados
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/victorbarq/">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/victorbarq/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
+## Integrantes: <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/victorbarq/">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
 
 ## Descrição
 
-📜 Descrição curta sobre o que seu projeto faz.
-<br><br>
-Meu projeto é um exemplo de como utilizar o github.
+📜 Meu projeto é um exemplo de como a gameficação pode ser utilizada para ensinar temas complexos de forma lúdica e divertida
 <br><br>
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
@@ -22,11 +20,8 @@ Meu projeto é um exemplo de como utilizar o github.
 </p>
 
 
-💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes inteli a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto "Eu, Presidente" ajuda a trazer o conhecimento político <br> 
+para os jovens de uma forma lúdica e intuitiva.
 <br><br>
 
 ## 🛠 Estrutura de pastas
