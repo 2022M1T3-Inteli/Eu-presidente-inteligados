@@ -90,7 +90,28 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao1.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao2.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao3.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao4.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao5.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao6.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao7.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao8.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao9.PNG"> 
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao10.PNG"> 
+<br>
+
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
