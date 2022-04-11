@@ -122,7 +122,7 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao9.PNG"> 
 <br>
 <p> 13 - Clique em Importar e Editar </p>
-<p> 14 - Seja Feliz!!! 😃
+<p> 14 - Seja Feliz!!! 😃 </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao10.PNG"> 
 <br>
 
