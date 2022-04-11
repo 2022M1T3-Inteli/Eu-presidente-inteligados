@@ -90,15 +90,21 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 
 ## 💻 Configuração para Desenvolvimento
 
+<p> 1 - Vá para a parte à cima deste Readme </p>
 <br>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao1.PNG"> 
 <br>
+<p> 2 - Clique no botão verde "Code" </p>
+<p> 3 - Clique em "Download ZIP" </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao2.PNG"> 
 <br>
+<p> 4 - Após o download, procure este arquivo no seu explorador de arquivos </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao3.PNG"> 
 <br>
+<p> 5 - Crie uma pasta e coloque o zip instalado dentro da mesma </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao4.PNG"> 
 <br>
+<p> 6 - Extraia o zip dentro da pasta </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao5.PNG"> 
 <br>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao6.PNG"> 
