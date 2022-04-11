@@ -8,7 +8,7 @@
 
 ## Inteligados
 
-## Integrantes: <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/victorbarq/">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
+## Integrantes: <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
 
 ## Descrição
 
