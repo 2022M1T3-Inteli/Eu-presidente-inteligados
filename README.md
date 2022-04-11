@@ -90,6 +90,14 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 
 ## 💻 Configuração para Desenvolvimento
 
+<br>
+
+Para abrir este projeto você necessita das seguintes ferramentas:
+
+-<a href="https://godotengine.org/download">GODOT</a>
+
+<br>
+
 <p> 1 - Vá para a parte à cima deste Readme </p>
 <br>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao1.PNG"> 
@@ -116,20 +124,17 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 <br>
 <p> 10 - Procure a pasta criada </p>
 <p> 11 - Clique no botão "Abrir", ele estará no canto inferior esquerdo desta tela, após isso, abra a pasta Gamev51 </p>
+<br>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao8.PNG"> 
 <br>
 <p> 12 - Encontre o arquivo Project.godot e abra-o </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao9.PNG"> 
 <br>
 <p> 13 - Clique em Importar e Editar </p>
-<p> 14 - Seja Feliz!!! 😃 </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao10.PNG"> 
+<p> 14 - Seja Feliz!!! 😃 </p>
 <br>
 
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
 
 ```sh
 make install
