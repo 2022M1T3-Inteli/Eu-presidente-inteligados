@@ -107,14 +107,22 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 <p> 6 - Extraia o zip dentro da pasta </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao5.PNG"> 
 <br>
+<p> 7 - Abra o Godot e procure este "menu", ele estará no canto superior direito da tela </p>
+<p> 8 - Clique no Botão "Import" </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao6.PNG"> 
 <br>
+<p> 9 - Após se deparar com esta tela, clique na opção "importar" </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao7.PNG"> 
 <br>
+<p> 10 - Procure a pasta criada </p>
+<p> 11 - Clique no botão "Abrir", ele estará no canto inferior esquerdo desta tela, após isso, abra a pasta Gamev51 </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao8.PNG"> 
 <br>
+<p> 12 - Encontre o arquivo Project.godot e abra-o </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao9.PNG"> 
 <br>
+<p> 13 - Clique em Importar e Editar </p>
+<p> 14 - Seja Feliz!!! 😃
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao10.PNG"> 
 <br>
 
