@@ -15,7 +15,7 @@
 📜 Meu projeto é um exemplo de como a gameficação pode ser utilizada para ensinar temas complexos de forma lúdica e divertida
 <br><br>
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png" alt="NOME DO JOGO" border="0">
   Game by <a href="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
