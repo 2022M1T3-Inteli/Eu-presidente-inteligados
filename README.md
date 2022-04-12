@@ -8,7 +8,7 @@
 
 ## Inteligados
 
-## Integrantes: </p> <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a> </p> <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a> </p> <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a> </p> <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a> </p> <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a> </p> <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a> </p> <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
+## Integrantes: </p> <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a> </p> <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a> </p> <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a> </p> <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a> </p> <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a> </p> <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a> </p> <a href="http://lattes.cnpq.br/8725830142676034">Thainá Lima</a>
 
 ## Descrição
 
