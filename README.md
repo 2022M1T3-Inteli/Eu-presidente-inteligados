@@ -57,18 +57,18 @@ para os jovens de uma forma lúdica e intuitiva.
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|GDD.docx ou Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-|readme.md<br>
+Raiz<br>
+<br>
+| Documentos<br>
+  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/documentos/antigos"> Antigos </a><br>
+  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/documentos"> GDD.docx e GDD.pdf </a><br>
+| Executáveis<br>
+  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Windows"> Windows </a><br>
+  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Android"> Android </a><br>
+  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/HTML"> HTML </a><br>
+|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/imagens"> Imagens </a><br>
+|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/src/GameV32"> Source </a><br>
+| Readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
