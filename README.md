@@ -8,16 +8,14 @@
 
 ## Inteligados
 
-## Integrantes: <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
+## Integrantes: </p> <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a> </p> <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a> </p> <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a> </p> <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a> </p> <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a> </p> <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a> </p> <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
 
 ## Descrição
 
-📜 Meu projeto é um exemplo de como a gameficação pode ser utilizada para ensinar temas complexos de forma lúdica e divertida
+O jogo começa com a tela de menu, nesta o jogador pode escolher iniciar uma campanha através do botão "Novo jogo" ou, caso tenha jogado anteriormente, pode pressionar "Carregar jogo" e voltar para o último ponto em que parou na campanha. 
 <br><br>
 <p align="center">
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png" alt="NOME DO JOGO" border="0">
-  Game by <a href="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
 
 
 O projeto "Eu, Presidente" ajuda a trazer o conhecimento político <br> 
