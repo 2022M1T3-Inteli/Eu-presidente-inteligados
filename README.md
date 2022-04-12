@@ -8,16 +8,49 @@
 
 ## Inteligados
 
-## Integrantes: </p> <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a> </p> <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a> </p> <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a> </p> <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a> </p> <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a> </p> <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a> </p> <a href="http://lattes.cnpq.br/8725830142676034">Thainá Lima</a>
+## Integrantes: </p> <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins </a> </p> <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a> </p> <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a> </p> <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a> </p> <a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a> </p> <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a> </p> <a href="http://lattes.cnpq.br/8725830142676034">Thainá Lima</a>
 
 ## Descrição
 
-O jogo começa com a tela de menu, nesta o jogador pode escolher iniciar uma campanha através do botão "Novo jogo" ou, caso tenha jogado anteriormente, pode pressionar "Carregar jogo" e voltar para o último ponto em que parou na campanha. 
+Já imaginou como é ser o Presidente do Brasil? Se a resposta for sim, o "Eu, Presidente" oferece a experiência que até então só era possível num universo imaginário.
+
+## Menu 
+
+O jogo começa com a tela de menu, nesta o jogador pode escolher iniciar uma campanha através do botão "Novo Jogo" ou, caso tenha jogado anteriormente, pode pressionar "Carregar Jogo" e voltar para o último ponto em que parou na campanha. 
 <br><br>
 <p align="center">
-<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png" alt="NOME DO JOGO" border="0">
-
-
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png" border="0">
+ <br><br>
+ 
+## Cutscene
+  
+Após pressionar "Novo Jogo" o jogador será levado à uma cutscene que apresentará a backstory do jogo. A ideia principal é que o protagonista, Presidente, acaba de assumir seu mandato, contudo, em função de uma problema de memória, ele se esquece da constituição, das funções do poder executivo e até mesmo de que ele havia ganhado a eleição. 
+<br><br>
+  
+<p align="center">
+ <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/cutscene.png" border="0">
+ <br><br>
+ 
+## Mapa do Brasil   
+  
+Após a cutscene o jogador será direcionado para o mapa do Brasil através do qual ele irá selecionar a região Sul e entrar na região da primeira fase. Caso ele tenha jogado anteriormente, mediante a progressão na campanha, ele poderá selecionar as demais regiões. 
+<br><br> 
+ 
+<p align="center">
+ <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/mapa%20do%20brasil.png" border="0">
+ <br><br> 
+  
+## Mundo Aberto
+  
+Ao selecionar a fase o jogador será direcinado para o mundo aberto, sendo que neste ele irá se deparar com uma série de estruturas, tais como escola, prefeitura, mercado e afins. 
+  
+<p align="center">
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/mundo%20aberto.png" border="0">
+<br><br>  
+  
+  
+  
+  
 O projeto "Eu, Presidente" ajuda a trazer o conhecimento político <br> 
 para os jovens de uma forma lúdica e intuitiva.
 <br><br>
