@@ -8,15 +8,15 @@
 
 ## Inteligados
 
-## Integrantes: <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/victorbarq/">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
+## Integrantes: <a href="https://www.linkedin.com/in/caio-martins-53a0601aa">Caio Martins de Abreu</a>, <a href="https://www.linkedin.com/in/frederico-schur-6a3313237">Frederico Schur</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isabela Rocha</a>, <a href="https://www.linkedin.com/in/leandro-custodio/">Leandro Oliveira</a>,<a href="https://www.linkedin.com/in/pablo-ruan-lana-viana-b0818b1a6/">Pablo Viana</a>, <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202">Rodrigo Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thaina Lima</a>
 
 ## Descrição
 
 📜 Meu projeto é um exemplo de como a gameficação pode ser utilizada para ensinar temas complexos de forma lúdica e divertida
 <br><br>
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png" alt="NOME DO JOGO" border="0">
+  Game by <a href="https://github.com/2022M1T3/Projeto4/blob/main/imagens/Menu.png">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
@@ -90,11 +90,51 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+<br>
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 -<a href="https://godotengine.org/download">GODOT</a>
+
+<br>
+
+<p> 1 - Vá para a parte à cima deste Readme </p>
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao1.PNG"> 
+<br>
+<p> 2 - Clique no botão verde "Code" </p>
+<p> 3 - Clique em "Download ZIP" </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao2.PNG"> 
+<br>
+<p> 4 - Após o download, procure este arquivo no seu explorador de arquivos </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao3.PNG"> 
+<br>
+<p> 5 - Crie uma pasta e coloque o zip instalado dentro da mesma </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao4.PNG"> 
+<br>
+<p> 6 - Extraia o zip dentro da pasta </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao5.PNG"> 
+<br>
+<p> 7 - Abra o Godot e procure este "menu", ele estará no canto superior direito da tela </p>
+<p> 8 - Clique no Botão "Import" </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao6.PNG"> 
+<br>
+<p> 9 - Após se deparar com esta tela, clique na opção "importar" </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao7.PNG"> 
+<br>
+<p> 10 - Procure a pasta criada </p>
+<p> 11 - Clique no botão "Abrir", ele estará no canto inferior esquerdo desta tela, após isso, abra a pasta Gamev51 </p>
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao8.PNG"> 
+<br>
+<p> 12 - Encontre o arquivo Project.godot e abra-o </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao9.PNG"> 
+<br>
+<p> 13 - Clique em Importar e Editar </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao10.PNG"> 
+<p> 14 - Seja Feliz!!! 😃 </p>
+<br>
+
 
 ```sh
 make install
