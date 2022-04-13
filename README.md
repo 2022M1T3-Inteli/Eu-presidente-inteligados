@@ -149,12 +149,6 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 <br>
 
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
 ## 🗃 Histórico de lançamentos
 
 A cada atualização os detalhes devem ser lançados aqui.
@@ -180,8 +174,35 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
+
+- Readme Model:
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+
+- Musicas:
+1. https://opengameart.org/
+2. https://www.youtube.com/watch?v=s68VO5zFxvM
+3. https://www.youtube.com/watch?v=Qp-HS69UdtU]
+4. https://opengameart.org/content/caketown-cuteplayful
+5. https://opengameart.org/content/continue-theme
+6. https://opengameart.org/content/platformer-jumping-sounds
+7. https://opengameart.org/content/pencil-sounds
+8. https://opengameart.org/content/4-chiptunes-adventure
+9. https://opengameart.org/content/game-over-theme 
+
+- Imagens
+1. https://fazendoanossafesta.com.br/2018/02/alfabeto-minions.html/exclamacao-alfabeto-gratis-minions/
+2. https://www.clubecuritibano.com.br/hotsite/transparencia/003-2/
+3. https://esquilo.io/png/search/question
+4. https://iconos8.es/illustrations/confirmado
+5. https://freepikpsd.com/engrenagem-icon-png-transparent-images-free/153168/
+6. https://pngtree.com/freepng/dog-barks-and-run-happily_7253654.html
+7. https://emily2.itch.io/modern-city 
+8. https://limezu.itch.io/moderninteriors 
+9. http://clipart-library.com/png-clipart.html 
+10. https://br.freepik.com/fotos-vetores-gratis/monument-brazil
+11. https://colecciondegifs.blogspot.com/2016/10/imagenes-de-cohetes.html?m=1 
+12. https://imgbb.com/nnrGnHS 
+13. https://pngimg.com/image/83334 
+
