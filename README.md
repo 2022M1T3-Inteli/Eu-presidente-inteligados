@@ -174,13 +174,11 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-<br>
 - Readme Model:
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
 
-<br>
 - Musicas:
 1. https://opengameart.org/
 2. https://www.youtube.com/watch?v=s68VO5zFxvM
@@ -192,7 +190,6 @@ Aqui estão as referências usadas no projeto.
 8. https://opengameart.org/content/4-chiptunes-adventure
 9. https://opengameart.org/content/game-over-theme 
 
-<br>
 - Imagens
 1. https://fazendoanossafesta.com.br/2018/02/alfabeto-minions.html/exclamacao-alfabeto-gratis-minions/
 2. https://www.clubecuritibano.com.br/hotsite/transparencia/003-2/
