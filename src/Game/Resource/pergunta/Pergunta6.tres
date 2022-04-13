@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "Após estacionar com o carro pessoal em local proibido, um guarda de trânsito lhe aplicou uma multa. O que você deve fazer?"
+type = 0
+opcoes = [ "Realizar o pagamento da multa, assim como um cidadão comum", "Utilizar seu cargo para cassar o emprego do guarda de trânsito" ]
+correct = "Realizar o pagamento da multa, assim como um cidadão comum"

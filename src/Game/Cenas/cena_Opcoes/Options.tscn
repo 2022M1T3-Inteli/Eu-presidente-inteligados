@@ -1,0 +1,111 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://Font/Montserrat-ExtraBold.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://Imagens/Menu/audio.png" type="Texture" id=2]
+[ext_resource path="res://Imagens/Menu/sem_audio.png" type="Texture" id=3]
+[ext_resource path="res://Imagens/Menu/menu_item2.png" type="Texture" id=4]
+[ext_resource path="res://Cenas/cena_Opcoes/options.gd" type="Script" id=5]
+
+[sub_resource type="DynamicFont" id=1]
+size = 108
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 108
+font_data = ExtResource( 1 )
+
+[sub_resource type="SpriteFrames" id=3]
+animations = [ {
+"frames": [ ExtResource( 2 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+} ]
+
+[node name="Options" type="ColorRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -4.0
+margin_top = -4.0
+margin_right = -4.0
+margin_bottom = -4.0
+color = Color( 0.231373, 0.223529, 0.223529, 0.286275 )
+script = ExtResource( 5 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="continue" type="Sprite" parent="."]
+position = Vector2( 652, 266 )
+scale = Vector2( 0.203468, 0.189435 )
+texture = ExtResource( 4 )
+
+[node name="continue" type="Button" parent="continue"]
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+margin_left = -1116.0
+margin_top = -1150.0
+margin_right = -1994.0
+margin_bottom = -437.0
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="continue/continue"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Continuar"
+align = 1
+valign = 1
+
+[node name="menu" type="Sprite" parent="."]
+position = Vector2( 658, 481 )
+scale = Vector2( 0.203468, 0.189435 )
+texture = ExtResource( 4 )
+
+[node name="menu" type="Button" parent="menu"]
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+margin_left = -1116.0
+margin_top = -1139.0
+margin_right = -1984.0
+margin_bottom = -442.0
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="menu/menu"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 2 )
+text = "Menu "
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="audio" type="Button" parent="."]
+margin_left = 1144.0
+margin_top = 25.0
+margin_right = 1228.0
+margin_bottom = 105.0
+rect_scale = Vector2( 1.04041, 1.12146 )
+focus_mode = 0
+enabled_focus_mode = 0
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="audio_Icon" type="AnimatedSprite" parent="."]
+position = Vector2( 1188, 70 )
+scale = Vector2( 0.15, 0.15 )
+frames = SubResource( 3 )
+
+[connection signal="pressed" from="audio" to="." method="_on_audio_pressed"]

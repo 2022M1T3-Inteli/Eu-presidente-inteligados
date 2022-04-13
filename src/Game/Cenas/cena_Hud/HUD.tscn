@@ -1,0 +1,89 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Font/MEGAMAN10.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://Cenas/cena_Hud/HUD.gd" type="Script" id=3]
+[ext_resource path="res://Imagens/HUD/molde barra.png" type="Texture" id=5]
+[ext_resource path="res://Imagens/HUD/barra amarela nova.png" type="Texture" id=6]
+[ext_resource path="res://Imagens/HUD/verificado.png" type="Texture" id=7]
+
+[sub_resource type="DynamicFont" id=1]
+size = 19
+font_data = ExtResource( 2 )
+
+[node name="hud" type="Node2D"]
+
+[node name="HUD" type="CanvasLayer" parent="."]
+script = ExtResource( 3 )
+
+[node name="Verificado" type="Sprite" parent="HUD"]
+position = Vector2( 51, 53 )
+scale = Vector2( 0.1, 0.1 )
+texture = ExtResource( 7 )
+
+[node name="Label2" type="Label" parent="HUD"]
+margin_left = 33.0
+margin_top = 13.0
+margin_right = 240.0
+margin_bottom = 72.0
+custom_colors/font_color = Color( 1, 0.972549, 0.27451, 1 )
+custom_constants/shadow_offset_x = 0
+custom_constants/shadow_offset_y = 1
+custom_fonts/font = SubResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="BarraAmarela1" type="Sprite" parent="HUD"]
+position = Vector2( 89.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela2" type="Sprite" parent="HUD"]
+position = Vector2( 109.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela3" type="Sprite" parent="HUD"]
+position = Vector2( 128.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela4" type="Sprite" parent="HUD"]
+position = Vector2( 148.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela5" type="Sprite" parent="HUD"]
+position = Vector2( 167.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela6" type="Sprite" parent="HUD"]
+position = Vector2( 187.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela7" type="Sprite" parent="HUD"]
+position = Vector2( 207.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela8" type="Sprite" parent="HUD"]
+position = Vector2( 227.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela9" type="Sprite" parent="HUD"]
+position = Vector2( 246.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="BarraAmarela10" type="Sprite" parent="HUD"]
+position = Vector2( 266.5, 54 )
+scale = Vector2( 0.202381, 0.171875 )
+texture = ExtResource( 6 )
+
+[node name="MoldeBarra" type="Sprite" parent="HUD"]
+position = Vector2( 178, 53.9375 )
+scale = Vector2( 0.308166, 0.210366 )
+texture = ExtResource( 5 )

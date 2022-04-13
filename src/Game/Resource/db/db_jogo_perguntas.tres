@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=11 format=2]
+
+[ext_resource path="res://Resource/db_perguntas.gd" type="Script" id=1]
+[ext_resource path="res://Resource/pergunta/Mercado.tres" type="Resource" id=2]
+[ext_resource path="res://Resource/pergunta/Escola.tres" type="Resource" id=3]
+[ext_resource path="res://Resource/pergunta/Pergunta2.tres" type="Resource" id=4]
+[ext_resource path="res://Resource/pergunta/Pergunta3.tres" type="Resource" id=5]
+[ext_resource path="res://Resource/pergunta/Pergunta1.tres" type="Resource" id=6]
+[ext_resource path="res://Resource/pergunta/Pergunta5.tres" type="Resource" id=7]
+[ext_resource path="res://Resource/pergunta/Pergunta6.tres" type="Resource" id=8]
+[ext_resource path="res://Resource/pergunta/Pergunta4.tres" type="Resource" id=9]
+[ext_resource path="res://Resource/pergunta/Prefeitura.tres" type="Resource" id=10]
+
+[resource]
+script = ExtResource( 1 )
+db = [ ExtResource( 6 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 9 ), ExtResource( 7 ), ExtResource( 8 ), null, ExtResource( 3 ), null, ExtResource( 10 ), null, ExtResource( 2 ), null ]

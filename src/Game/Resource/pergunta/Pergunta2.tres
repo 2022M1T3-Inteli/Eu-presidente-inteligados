@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "Um grande resort planeja expandir a sua área, mas após um estudo ambiental, foi constatado que há espécies de plantas que só existem naquele local. O dono desse resort, que também é senador, oferece verba e apoio a você, caso o terreno for liberado. O que fazer:"
+type = 0
+opcoes = [ "Recusar a proposta e denunciar para o Ministério Público.", "Aceitar a verba e o apoio." ]
+correct = "Recusar a proposta e denunciar para o Ministério Público."

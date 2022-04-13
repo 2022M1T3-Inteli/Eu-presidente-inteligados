@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Hino.mp3-19cf75ba895708474f05c4b6ae1e1cc4.mp3str"
+
+[deps]
+
+source_file="res://Audio/Hino.mp3"
+dest_files=[ "res://.import/Hino.mp3-19cf75ba895708474f05c4b6ae1e1cc4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

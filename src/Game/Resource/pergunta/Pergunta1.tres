@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Resource/rec_questao.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Informacao_Pergunta = "A mecanização das lavouras no Sul está ocasionando um crescente nível de desemprego, resultando na migração para outros estados brasileiros e o surgimento de boias-frias. Esses trabalhadores rurais sem-terra são tratados de forma exploratória, com baixos salários, péssimas condições de saúde e moradia. Embora os boias-frias não estejam restritos apenas à Região Sul do Brasil, o estado do Paraná é a unidade federativa com o maior número de pessoas nessas condições."
+type = 0
+opcoes = [ "Trazer trabalhadores de outros lugares, sem possuir recursos.", "Implementação de cursos profissionalizantes aos trabalhadores." ]
+correct = "Implementação de cursos profissionalizantes aos trabalhadores."
