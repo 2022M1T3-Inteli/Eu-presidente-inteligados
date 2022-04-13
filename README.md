@@ -136,16 +136,17 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao7.PNG"> 
 <br>
 <p> 10 - Procure a pasta criada </p>
-<p> 11 - Clique no botão "Abrir", ele estará no canto inferior esquerdo desta tela, após isso, abra as pastas: projeto_eu_presidente  >  Projeto4-main  >  src  >  Game</p>
+<p> 11 - Clique no botão "Abrir", ele estará no canto inferior esquerdo desta tela. </p> 
+<p> 12 - Abra as pastas: projeto_eu_presidente  >  Projeto4-main  >  src  >  Game </p>
 <br>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao8.PNG"> 
 <br>
-<p> 12 - Encontre o arquivo Project.godot e abra-o </p>
+<p> 13 - Encontre o arquivo Project.godot e abra-o </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao9.PNG"> 
 <br>
-<p> 13 - Clique em Importar e Editar </p>
+<p> 14 - Clique em Importar e Editar </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao10.PNG"> 
-<p> 14 - Seja Feliz!!! 😃 </p>
+<p> 15 - Seja Feliz!!! 😃 </p>
 <br>
 
 
