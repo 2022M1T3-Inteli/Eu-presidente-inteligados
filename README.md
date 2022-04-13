@@ -120,13 +120,13 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao2.PNG"> 
 <br>
 <p> 4 - Após o download, procure este arquivo no seu explorador de arquivos </p>
-<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao3.PNG"> 
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/zip_print.PNG"> 
 <br>
 <p> 5 - Crie uma pasta e coloque o zip instalado dentro da mesma </p>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao4.PNG"> 
 <br>
 <p> 6 - Extraia o zip dentro da pasta </p>
-<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao5.PNG"> 
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/zip2_print.PNG"> 
 <br>
 <p> 7 - Abra o Godot e procure este "menu", ele estará no canto superior direito da tela </p>
 <p> 8 - Clique no Botão "Import" </p>
