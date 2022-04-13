@@ -49,11 +49,6 @@ Ao selecionar a fase o jogador será direcinado para o mundo aberto, sendo que n
 <br><br>  
   
   
-  
-  
-O projeto "Eu, Presidente" ajuda a trazer o conhecimento político <br> 
-para os jovens de uma forma lúdica e intuitiva.
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
@@ -70,30 +65,8 @@ Raiz<br>
 |→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/src/GameV32"> Source </a><br>
 | Readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Aqui estarão todos os documentos do projeto, mas principalmente o <b>GDD (Game Design Document)/Documentação do Sistema</b>. Há uma pasta <b>antigos</b> onde estarão todas as versões antigas da documentação.
-
-<b>executáveis</b>: Aqui estarão todos os executáveis do jogo, prontos para rodar. Há no mínimo 3 pastas, uma para binários <b>Windows</b>, uma para binários <b>android</b> e uma para a <b>Web/HTML</b>
-
-<b>imagens</b>: Algumas imagens do jogo/sistema e logos prontos para serem utilizados e visualizados.
-
-<b>src</b>: Nesta pasta irá todo o código fonte do jogo/sistema, pronto para para ser baixado e modificado.
-
+ 
 ## 🛠 Instalação
-
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
 <b>Windows:</b>
 
@@ -125,7 +98,7 @@ Através da cópia/clone/ download do repositório, altere os dados do readme.md
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+<a href="https://godotengine.org/download">GODOT</a>
 
 <br>
 
