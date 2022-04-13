@@ -166,16 +166,16 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Melhoria na movimentação do personagem no mini-game;
     * Melhoria nas sprites do mini-game;
     * Melhoria na qualidade das sprites no projeto;
-    * Adição de mouses personalisados "Caneta e mão"
+    * Adição de mouses personalisados "Caneta e mão".
 
 * 0.2.0 - 01/04/2022
     * Melhora no design do menu;
     * Adição de cena de escolha de fases "Mapa do Brasil";
     * Adição de efeitos sonoros;
-    * Adição do mini-game
-    * Adição de novos npcs
-    * Adição objetivos no jogo "Cada pergunta do quiz é ativada ao interagir com portas específicas no mapa"
-    * Melhoras no mapa do mundo aberto
+    * Adição do mini-game;
+    * Adição de novos npcs;
+    * Adição objetivos no jogo "Cada pergunta do quiz é ativada ao interagir com portas específicas no mapa";
+    * Melhoras no mapa do mundo aberto;
     * Adição de Hud;
     * Adição de novas áreas exploráveis "Mercado, Escola e Prefeitura".
  
@@ -195,7 +195,7 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Adição de porta interagivel que mostra o quiz.
  
 * 0.0.1 - 18/02/2022
-    * Primeira versão do jogo, quiz de perguntas e respostas
+    * Primeira versão do jogo, quiz de perguntas e respostas.
 
 ## 📋 Licença/License
 
