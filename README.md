@@ -84,13 +84,8 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 📈 Exemplo de uso
 
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado.
-
-Adicione blocos de códigos e, se necessário, screenshots.
-
-Este modelo pode ser copiado e utilizado à vontade.
-
-Através da cópia/clone/ download do repositório, altere os dados do readme.md e carregue os arquivos de seu projeto.
+<p> Você pode adicionar novas perguntas no jogo adicionando um novo recurso na pasta perguntas e arrastalas para o recurso "db_jogo_perguntas" </p>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/rec.PNG"> 
 
 ## 💻 Configuração para Desenvolvimento
 
