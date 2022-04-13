@@ -136,7 +136,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao7.PNG"> 
 <br>
 <p> 10 - Procure a pasta criada </p>
-<p> 11 - Clique no botão "Abrir", ele estará no canto inferior esquerdo desta tela. </p> 
+<p> 11 - Clique no botão "Abrir", ele estará no canto inferior esquerdo desta tela </p> 
 <p> 12 - Abra as pastas: projeto_eu_presidente  >  Projeto4-main  >  src  >  Game </p>
 <br>
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/instalacao8.PNG"> 
