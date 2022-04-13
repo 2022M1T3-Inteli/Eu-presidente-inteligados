@@ -83,14 +83,23 @@ Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 📈 Exemplo de uso
-
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado.
-
-Adicione blocos de códigos e, se necessário, screenshots.
-
-Este modelo pode ser copiado e utilizado à vontade.
-
-Através da cópia/clone/ download do repositório, altere os dados do readme.md e carregue os arquivos de seu projeto.
+<br>
+<p> Você pode adicionar novas perguntas no jogo adicionando um novo recurso na pasta perguntas e arrastalas para o recurso "db_jogo_perguntas" </p>
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/rec.PNG"> 
+<br>
+<p> Para criar falas para novos npcs, você pode copiar e colar esta estrutura e definir novos Id's no script de NPC_TEXTO. </p>
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/id_npc.PNG"> 
+<br>
+<p> Para ativar as caixas de texto adicionadas, coloque uma area 2d, e adicione o nó de body entered no script NPC_TEXTO </p>
+<br>
+<img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/id_npc_2.PNG"> 
+<br>
+<p> *Para que não ocorram bugs, deixe a caixa de colisão na Layer 2, e deixe o Mask desabilitado, você pode encontrar esta opção selecionando o objeto em questão e
+clicando no item Collision, localizado no canto direito da tela.
+</p>
+<br>
 
 ## 💻 Configuração para Desenvolvimento
 
