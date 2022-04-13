@@ -153,32 +153,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 18/02/2022
-    * Primeira versão do jogo, quiz de perguntas e respostas
-* 0.2.0 - 04/03/2022
-    * Adição do menu;
-    * Adição do mundo aberto;
-    * Adição do personagem controlável;
-    * Adição de câmera que segue o jogador;
-    * Adição de porta interagivel que mostra o quiz.
-* 0.1.1 - 18/03/2022
-    * Melhora na interface das perguntas;
-    * Melhora no menu;
-    * Adição de movimentação do personagem;
-    * Primeira NPC "Ana" adicionada;
-    * Adição da caixa de texto;
-    * Adição dos limites do mapa.
-* 0.1.0 - 01/04/2022
-    * Melhora no design do menu;
-    * Adição de cena de escolha de fases "Mapa do Brasil";
-    * Adição de efeitos sonoros;
-    * Adição do mini-game
-    * Adição de novos npcs
-    * Adição objetivos no jogo "Cada pergunta do quiz é ativada ao interagir com portas específicas no mapa"
-    * Melhoras no mapa do mundo aberto
-    * Adição de Hud;
-    * Adição de novas áreas exploráveis "Mercado, Escola e Prefeitura".
-* 0.0.1 - 13/04/2022
+* 0.2.1 - 13/04/2022
     * Adição de novos NPC's;
     * Adição do easter egg do cachorro caramelo;
     * Adição da tela de game-over;
@@ -192,6 +167,31 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Melhoria nas sprites do mini-game;
     * Melhoria na qualidade das sprites no projeto;
     * Adição de mouses personalisados "Caneta e mão"
+* 0.2.0 - 01/04/2022
+    * Melhora no design do menu;
+    * Adição de cena de escolha de fases "Mapa do Brasil";
+    * Adição de efeitos sonoros;
+    * Adição do mini-game
+    * Adição de novos npcs
+    * Adição objetivos no jogo "Cada pergunta do quiz é ativada ao interagir com portas específicas no mapa"
+    * Melhoras no mapa do mundo aberto
+    * Adição de Hud;
+    * Adição de novas áreas exploráveis "Mercado, Escola e Prefeitura".
+* 0.1.1 - 18/03/2022
+    * Melhora na interface das perguntas;
+    * Melhora no menu;
+    * Adição de movimentação do personagem;
+    * Primeira NPC "Ana" adicionada;
+    * Adição da caixa de texto;
+    * Adição dos limites do mapa.
+* 0.1.0 - 04/03/2022
+    * Adição do menu;
+    * Adição do mundo aberto;
+    * Adição do personagem controlável;
+    * Adição de câmera que segue o jogador;
+    * Adição de porta interagivel que mostra o quiz.
+* 0.0.1 - 18/02/2022
+    * Primeira versão do jogo, quiz de perguntas e respostas
 
 ## 📋 Licença/License
 
