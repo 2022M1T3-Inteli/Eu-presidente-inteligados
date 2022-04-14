@@ -71,16 +71,12 @@ Raiz<br>
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Acesse este <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Windows"> Link </a>, baixe o executável e o inicie como qualquer outro applicativo.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
 <b>HTML:</b>
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+Vá para a secção excutáveis em entre em <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/HTML"> HTML </a>, lá você deverá baixar os arquivos disponibilizados para que possa rodar corretamente o index.html. Alternativamente você pode acessar este <a href="https://lph-backspace.itch.io/eupresidente2"> Link </a> e jogar online. 
 
 ## 📈 Exemplo de uso
 <br>
