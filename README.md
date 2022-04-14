@@ -236,3 +236,6 @@ Aqui estão as referências usadas no projeto.
 11. https://colecciondegifs.blogspot.com/2016/10/imagenes-de-cohetes.html?m=1 
 12. https://imgbb.com/nnrGnHS 
 13. https://pngimg.com/image/83334 
+
+- Licença TiledMap
+1.<a href="https://github.com/2022M1T3/Projeto4/blob/main/documentos/Licen%C3%A7a%20%E2%80%94%20Interiores%20e%20Exteriores.pdf"> Licença </a>
