@@ -59,7 +59,6 @@ Raiz<br>
   &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/documentos"> GDD.docx e GDD.pdf </a><br>
 | Executáveis<br>
   &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Windows"> Windows </a><br>
-  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Android"> Android </a><br>
   &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/HTML"> HTML </a><br>
 |→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/imagens"> Imagens </a><br>
 |→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/src/GameV32"> Source </a><br>
@@ -70,13 +69,17 @@ Raiz<br>
 
 <b>Windows:</b>
 
-Não há instalação! Apenas executável!
-Acesse este <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Windows"> Link </a>, baixe o executável e o inicie como qualquer outro applicativo.
-
+Não há instalação, apenas executável. Baixe os arquivos disponíveis em https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Windows e execute "Game.exe" como qualquer outro programa.
 
 <b>HTML:</b>
 
-Vá para a secção excutáveis em entre em <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/HTML"> HTML </a>, lá você deverá baixar os arquivos disponibilizados para que possa rodar corretamente o index.html. Alternativamente você pode acessar este <a href="https://lph-backspace.itch.io/eupresidente2"> Link </a> e jogar online. 
+Não há instalação! Baixe os arquivos disponíveis em https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/HTML e execute-o como uma página da web (através de algum navegador).
+
+```sh
+Dependendo de suas configurações de firewall, talvez seja necessário
+instaurar um web service como xampp ou wampp para que o jogo rode lo-
+calmente.
+```
 
 ## 📈 Exemplo de uso
 <br>
