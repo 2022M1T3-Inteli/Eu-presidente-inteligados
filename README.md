@@ -48,21 +48,22 @@ Ao selecionar a fase o jogador será direcinado para o mundo aberto, sendo que n
 <img src="https://github.com/2022M1T3/Projeto4/blob/main/imagens/mundo%20aberto.png" border="0">
 <br><br>  
   
-  
-
+ 
+ 
 ## 🛠 Estrutura de pastas
-
-Raiz<br>
-<br>
-| Documentos<br>
-  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/documentos/antigos"> Antigos </a><br>
-  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/documentos"> GDD.docx e GDD.pdf </a><br>
-| Executáveis<br>
-  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/Windows"> Windows </a><br>
-  &emsp;|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/execut%C3%A1veis/HTML"> HTML </a><br>
-|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/imagens"> Imagens </a><br>
-|→ <a href="https://github.com/2022M1T3/Projeto4/tree/main/src/GameV32"> Source </a><br>
-| Readme.md<br>
+    
+- Raiz<br><br>
+| --> documentos<br>
+  &emsp;| --> antigos<br>
+  &emsp;|  GDD Grupo 4.pdf<br>
+  &emsp;|  GDD Grupo 4.docx<br>
+| --> executáveis<br>
+  &emsp;| --> windows<br>
+  &emsp;| --> html<br>
+| --> imagens<br>
+| --> src<br>
+    &emsp;| --> Game<br>
+| readme.md<br>
 
  
 ## 🛠 Instalação
